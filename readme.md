@@ -61,6 +61,8 @@ Les objets apparaissent de manière aléatoire à l'écran, se déplacent, et di
 -   **Bruitages** : clics sur les objets produisent des sons typiques (maracas, guitare mariachi, etc.).
 -   **Musique de fond** : bande sonore mexicaine jouée pendant la partie, intensifiée avec la difficulté.
 
+![](https://image.cdn2.seaart.ai/2023-11-07/22035778178648069/d2ff8656d36b756f4379f5a95b3367dd597ea782_high.webp)
+
 ---
 
 ## Technologies utilisées
