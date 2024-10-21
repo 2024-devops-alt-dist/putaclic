@@ -6,6 +6,8 @@
 
 Développer un jeu interactif en JavaScript sur le thème mexicain. Le joueur doit cliquer sur des objets culturels (piñatas, calaveras, cactus) apparaissant aléatoirement à l'écran pour marquer des points dans le temps imparti. Le jeu propose trois niveaux de difficulté avec des paramètres différents. Les scores sont sauvegardés, et le meilleur score est mis à jour à chaque nouvelle partie.
 
+![calaveras](https://ar-mag.fr/wp-content/uploads/2019/06/AR47-caladera-mexique-2019.jpg)
+
 ---
 
 ## Fonctionnalités principales
