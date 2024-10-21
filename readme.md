@@ -1,5 +1,7 @@
 # Projet PutaClic – Version Mexicaine 🎉
 
+![catrina](https://img.freepik.com/fotos-premium/calavera-catrina-retrato-mujer-maquillaje-calavera-azucar-sobre-fondo-flores-rojas_1456-1772.jpg)
+
 ## Objectif du projet
 
 Développer un jeu interactif en JavaScript sur le thème mexicain. Le joueur doit cliquer sur des objets culturels (piñatas, calaveras, cactus) apparaissant aléatoirement à l'écran pour marquer des points dans le temps imparti. Le jeu propose trois niveaux de difficulté avec des paramètres différents. Les scores sont sauvegardés, et le meilleur score est mis à jour à chaque nouvelle partie.
