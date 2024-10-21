@@ -105,6 +105,12 @@ Les objets apparaissent de manière aléatoire à l'écran, se déplacent, et di
 
 ---
 
+## Ressources
+
+[freep!k : keyword -> mexique](https://fr.freepik.com/search?format=search&last_filter=query&last_value=mexique+&query=mexique+)
+
+---
+
 ## Conclusion
 
 Le jeu "PutaClic – Version Mexicaine" offre une expérience immersive en intégrant des éléments culturels mexicains au sein d’un gameplay addictif. Ce projet met en pratique des compétences en JavaScript, gestion d'événements, animations, et stockage local, tout en proposant un design festif et coloré inspiré du Mexique.
